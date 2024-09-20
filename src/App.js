@@ -14,6 +14,7 @@ Function App() {
             <Header />
             <Main />
             <Nav />
+            <Text "teste" />
         </div>
     )
 }
